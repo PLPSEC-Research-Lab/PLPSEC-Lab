@@ -4,11 +4,11 @@ This laboratory simulates a real-world Water Treatment Plant using MQTT-based te
 The lab is designed for research in industrial cybersecurity, anomaly detection, and critical infrastructure protection.
 
 # 2. Objectives
-Study MQTT protocol behavior in industrial telemetry systems
-Simulate cyber attacks on MQTT communication channels
-Detect anomalies in sensor data streams
-Integrate telemetry data with SIEM systems (Wazuh)
-Visualize industrial processes using Grafana dashboards
+* Study MQTT protocol behavior in industrial telemetry systems
+* Simulate cyber attacks on MQTT communication channels
+* Detect anomalies in sensor data streams
+* Integrate telemetry data with SIEM systems (Wazuh)
+* Visualize industrial processes using Grafana dashboards
 
 # 3. System Architecture
 Industrial Sensors (simulated)
