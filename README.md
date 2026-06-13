@@ -19,13 +19,13 @@ The laboratory focuses on bridging the gap between industrial operations and mod
    * OT network protection strategies
    * Industrial protocol resilience
 # MQTT Telemetry Security
-Message integrity validation
-Broker security assessment
-Topic-based access control
-Critical Infrastructure Protection
-Water treatment systems
-Smart utility networks
-Sensor-driven environments
+  * Message integrity validation
+  * Broker security assessment
+  * Topic-based access control
+# Critical Infrastructure Protection
+  * Water treatment systems
+  * Smart utility networks
+  * Sensor-driven environments
 🏗️ Laboratory Architecture
 Field Layer (Simulation)
 Water Level Sensors
