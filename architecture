@@ -1,7 +1,6 @@
 ## Architecture
 This section contains the laboratory architecture, network diagrams, data flows, and system design documentation.
-
-Contents:
+# Contents:
  * Logical architecture
  * Network topology
  * MQTT communication flow
