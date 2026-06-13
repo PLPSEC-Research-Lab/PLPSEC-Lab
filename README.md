@@ -26,8 +26,8 @@ The laboratory focuses on bridging the gap between industrial operations and mod
   * Water treatment systems
   * Smart utility networks
   * Sensor-driven environments
-🏗️ Laboratory Architecture
-Field Layer (Simulation)
+# 🏗️ Laboratory Architecture
+# Field Layer (Simulation)
 Water Level Sensors
 Pressure Sensors
 Flow Monitoring Devices
