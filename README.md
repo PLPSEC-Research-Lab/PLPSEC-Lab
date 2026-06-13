@@ -1,62 +1,91 @@
-## Water Treatment Plant MQTT Telemetry Security Lab
-# 1. Overview
-This laboratory simulates a real-world Water Treatment Plant using MQTT-based telemetry communication to study cybersecurity risks, attack vectors, and detection mechanisms in Industrial Control Systems (ICS) and Operational Technology (OT) environments.
-The lab is designed for research in industrial cybersecurity, anomaly detection, and critical infrastructure protection.
+## Water Treatment Plant MQTT Telemetry Security Laboratory
 
-# 2. Objectives
-* Study MQTT protocol behavior in industrial telemetry systems
-* Simulate cyber attacks on MQTT communication channels
-* Detect anomalies in sensor data streams
-* Integrate telemetry data with SIEM systems (Wazuh)
-* Visualize industrial processes using Grafana dashboards
+# 🏛️ Research Institution
 
-# 3. System Architecture
-* Industrial Sensors (simulated)
-    * Water Level Sensors
-    * Pressure Sensors
-    * Flow Rate Sensors
-* Communication Layer
-    * MQTT Broker (Mosquitto)
-* Security & Monitoring Layer
-    * Wazuh SIEM
-    * Grafana Dashboards
-* Attack Simulation Layer
-    * Traffic manipulation
-    * Replay attacks
-    * Unauthorized topic subscription
-    * Data spoofing
+# PLPSEC Research & Training Lab
+Industrial Cybersecurity & Critical Infrastructure Research Unit
 
-# 4. Research Focus Areas
-* MQTT protocol security in ICS environments
-* Telemetry data integrity verification
-* Detection of abnormal sensor behavior
-* MITRE ATT&CK mapping for ICS environments
-* Real-time monitoring of industrial processes
+Website: https://plpsec.com
 
-# 5. Threat Scenarios
-* MQTT Topic Spoofing Attack
-* Sensor Data Manipulation
-* Replay Attack on Telemetry Streams
-* Unauthorized Broker Access
-* Data Injection into Control Channels
+# 🎯 Mission Statement
+To design, simulate, and evaluate cybersecurity mechanisms for Industrial Control Systems (ICS) using MQTT-based telemetry in water treatment infrastructure environments.
 
-# 6. Technology Stack
-* MQTT (Mosquitto Broker)
-* Python (Sensor Simulation)
-* Wazuh SIEM
-* Grafana
-* Linux (Kali / Ubuntu)
-* Optional: Raspberry Pi / Arduino
+The laboratory focuses on bridging the gap between industrial operations and modern cyber defense strategies.
 
-# 7. Use Cases
-* Academic research in ICS cybersecurity
-* EU-funded research projects (Horizon Europe / Digital Europe)
-* SOC training environments
-* Industrial threat detection testing
+# 🧭 Research Domains
 
-# 8. Status
-Active Research Laboratory (Phase 1)
+# Industrial Cybersecurity
+   * ICS/SCADA security analysis
+   * OT network protection strategies
+   * Industrial protocol resilience
+# MQTT Telemetry Security
+Message integrity validation
+Broker security assessment
+Topic-based access control
+Critical Infrastructure Protection
+Water treatment systems
+Smart utility networks
+Sensor-driven environments
+🏗️ Laboratory Architecture
+Field Layer (Simulation)
+Water Level Sensors
+Pressure Sensors
+Flow Monitoring Devices
+Communication Layer
+MQTT Broker (Mosquitto)
+Topic-based messaging system
+Security Layer
+Wazuh SIEM (log analysis & detection)
+Threat monitoring engine
+Visualization Layer
+Grafana dashboards
+Real-time telemetry visualization
+⚠️ Threat Modeling & Attack Scenarios
+MQTT Attack Vectors
+Topic Spoofing
+Replay Attacks
+Data Injection
+Unauthorized Subscription
+System-Level Threats
+Sensor manipulation
+Data integrity compromise
+Communication disruption
+False telemetry generation
+🧪 Experimental Capabilities
+Attack simulation in controlled environment
+Real-time anomaly detection
+Security event correlation (SIEM)
+Industrial traffic analysis
+🧠 Research Methodology
+Data collection from simulated sensors
+MQTT traffic monitoring
+Log analysis via Wazuh
+Visualization via Grafana
+Attack-response evaluation
+🔗 Integration Ecosystem
+MQTT (Mosquitto)
+Python (simulation & automation)
+Wazuh SIEM
+Grafana dashboards
+Linux-based infrastructure (Kali / Ubuntu)
+🌍 Use Cases
+EU-funded cybersecurity research (Horizon Europe)
+Smart city infrastructure protection
+Industrial SOC training environments
+Academic research publications
+Critical infrastructure resilience studies
+📊 Strategic Value
+This laboratory serves as a foundational research node for:
 
-# 9. Contact
+Multi-protocol ICS security research (MQTT, Modbus, OPC UA, DNP3)
+Threat intelligence development for industrial systems
+Digital twin cybersecurity modeling
+SOC-level detection engineering
+📌 Status
+🟢 Active Research Phase 1
+🧪 Experimental Laboratory Environment
+📡 MQTT Telemetry Simulation Enabled
+
+📞 Contact
 PLPSEC Research & Training Lab
-https://plpsec.com
+https://plpsec.eu
