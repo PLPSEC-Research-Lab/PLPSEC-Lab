@@ -9,4 +9,5 @@ Components:
 * Operational technology research
   
 Purpose:
+
 Provide a realistic industrial environment for cybersecurity experimentation and monitoring.
