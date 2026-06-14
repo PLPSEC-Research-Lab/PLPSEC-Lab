@@ -1,11 +1,11 @@
-## MQTT Broker
+# MQTT Broker
 This section contains MQTT broker configuration and documentation.
 
-# Platform:
+## Platform:
 
   * Mosquitto MQTT Broker
 
-# Functions:
+## Functions:
 
   * Telemetry transport
   * Topic management
