@@ -1,7 +1,7 @@
 # Architecture
 This directory contains the architecture and design documentation for the Water Treatment Plant MQTT Telemetry Security Laboratory
 
-## Contents:
+Contents:
 
 * Laboratory architecture
 * Network topology
