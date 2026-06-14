@@ -1,10 +1,12 @@
 # Architecture
-This section contains the laboratory architecture, network diagrams, data flows, and system design documentation.
+This directory contains the architecture and design documentation for the Water Treatment Plant MQTT Telemetry Security Laboratory
 
 ## Contents:
 
-* Logical architecture
+* Laboratory architecture
 * Network topology
-* MQTT communication flow
-* Security monitoring architecture
-* Future expansion plans
+* Data flow diagrams
+* System integration documentation
+* Infrastructure development roadmap
+Status: Active Development
+  
