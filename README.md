@@ -86,6 +86,6 @@ This laboratory serves as a foundational research node for:
 🧪 Experimental Laboratory Environment
 📡 MQTT Telemetry Simulation Enabled
 
-# 📞 Contact
+## 📞 Contact
 PLPSEC Research & Training Lab
 https://plpsec.com
