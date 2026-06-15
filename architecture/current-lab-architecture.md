@@ -63,7 +63,7 @@ Network Configuration:
 NAT	192.168.133.131
 Host-Only	192.168.100.131
 # Network Architecture
-NAT Network
+## NAT Network
 Network Range:
 
 192.168.133.0/24
